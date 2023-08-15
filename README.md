@@ -5,7 +5,7 @@
 # Rock Paper Scissors
 
 -- It's a simple program with all seen in foundamentals.
--- The idea is to play against computer a classic but unoxidable Rock-Paper-Scissors
+-- Challenge computer the classic but unoxidable Rock-Paper-Scissors game and enjoy
 
 
 -Tomas.
